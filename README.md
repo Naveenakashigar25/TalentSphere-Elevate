@@ -1,0 +1,1 @@
+TalentSphere Elevate is a career guidance and skill development platform.The application is designed to help High School Students, Graduates, and Professionals enhance their skills, explore career opportunities, and prepare for their future through personalized dashboards.
